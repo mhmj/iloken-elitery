@@ -25,6 +25,8 @@ import './style.css'
 const routes = [
   { path: '/', name: 'Home', component: HomePage },
   { path: '/partners', name: 'Partners', component: PartnersPage },
+  { path: '/partners/elastic', name: 'ElasticPartner', component: ElasticPartnerPage },
+  { path: '/partners/aws', name: 'AWSPartner', component: AWSPartnerPage },
   { path: '/about', name: 'About', component: AboutPage },
   { path: '/careers', name: 'Careers', component: CareersPage },
   { path: '/careers/:id', name: 'JobDetail', component: JobDetailPage },
