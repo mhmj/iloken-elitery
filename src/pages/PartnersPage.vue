@@ -39,7 +39,7 @@
             <div class="partner-info">
               <h3>AWS</h3>
               <p>Start your migration by discovering and assessing on-premises resources using AWS technology.</p>
-              <a href="#" class="explore-link">Explore More →</a>
+              <router-link to="/partners/aws" class="explore-link">Explore More →</router-link>
             </div>
           </div>
           
