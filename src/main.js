@@ -17,7 +17,9 @@ const routes = [
   { path: '/about', name: 'About', component: AboutPage },
   { path: '/careers', name: 'Careers', component: CareersPage },
   { path: '/careers/:id', name: 'JobDetail', component: JobDetailPage },
-  { path: '/case-studies/:id', name: 'CaseStudy', component: CaseStudyPage }
+  { path: '/case-studies/:id', name: 'CaseStudy', component: CaseStudyPage },
+  { path: '/services/it-project-management', name: 'ITProjectManagement', component: ITProjectManagementPage },
+  { path: '/services/consultation-system-integration', name: 'ConsultationSystemIntegration', component: ConsultationSystemIntegrationPage }
 ]
 
 const router = createRouter({
