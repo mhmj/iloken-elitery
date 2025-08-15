@@ -1,16 +1,21 @@
 {
-  "name": "code",
+  "name": "iokenellery-website",
   "version": "1.0.0",
-  "description": "Frontend application",
-  "main": "index.js",
+  "description": "iokenellery website - Vue.js implementation",
+  "main": "src/main.js",
   "scripts": {
-    "serve": "http-server -p 8080",
-    "dev": "npm run serve",
-    "start": "npm run serve"
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview --port 8080",
+    "start": "npm run dev"
   },
-  "dependencies": {},
+  "dependencies": {
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
   "devDependencies": {
-    "http-server": "^14.1.1"
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
   },
   "author": "",
   "license": "ISC"
