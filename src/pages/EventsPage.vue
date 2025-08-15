@@ -44,10 +44,11 @@
 
         <!-- Events Grid -->
         <div class="events-grid">
-          <div 
-            v-for="event in filteredEvents" 
-            :key="event.id" 
+          <div
+            v-for="event in filteredEvents"
+            :key="event.id"
             class="event-card"
+            @click="goToEventDetail(event.id)"
           >
             <div class="event-image">
               <img :src="event.image" :alt="event.title" />
