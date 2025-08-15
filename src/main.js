@@ -51,9 +51,13 @@ const routes = [
   { path: '/services/mediainsights', name: 'MediaInsights', component: MediaInsightsPage },
   { path: '/services/cloud-managed-service', name: 'CloudManagedService', component: CloudManagedServicePage },
   { path: '/insights/events', name: 'Events', component: EventsPage },
+  { path: '/insights/events/:id', name: 'EventDetail', component: EventDetailPage },
   { path: '/insights/ebooks', name: 'EBooks', component: EBookPage },
   { path: '/insights/ebooks/:id', name: 'EBookDetail', component: EBookDetailPage },
-  { path: '/insights/whitepapers', name: 'Whitepapers', component: WhitepaperPage }
+  { path: '/insights/whitepapers', name: 'Whitepapers', component: WhitepaperPage },
+  { path: '/insights/whitepapers/:id', name: 'WhitepaperDetail', component: WhitepaperDetailPage },
+  { path: '/insights/articles', name: 'Articles', component: ArticlesPage },
+  { path: '/insights/articles/:id', name: 'ArticleDetail', component: ArticleDetailPage }
 ]
 
 const router = createRouter({
