@@ -45,7 +45,11 @@ const routes = [
   { path: '/services/generative-ai-service', name: 'GenerativeAIService', component: GenerativeAIServicePage },
   { path: '/services/dbinsights', name: 'DBInsights', component: DBInsightsPage },
   { path: '/services/mediainsights', name: 'MediaInsights', component: MediaInsightsPage },
-  { path: '/services/cloud-managed-service', name: 'CloudManagedService', component: CloudManagedServicePage }
+  { path: '/services/cloud-managed-service', name: 'CloudManagedService', component: CloudManagedServicePage },
+  { path: '/insights/events', name: 'Events', component: EventsPage },
+  { path: '/insights/ebooks', name: 'EBooks', component: EBookPage },
+  { path: '/insights/ebooks/:id', name: 'EBookDetail', component: EBookDetailPage },
+  { path: '/insights/whitepapers', name: 'Whitepapers', component: WhitepaperPage }
 ]
 
 const router = createRouter({
