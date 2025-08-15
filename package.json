@@ -1,0 +1,22 @@
+{
+  "name": "iokenellery-website",
+  "version": "1.0.0",
+  "description": "iokenellery website - Vue.js implementation",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview --port 8080",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
