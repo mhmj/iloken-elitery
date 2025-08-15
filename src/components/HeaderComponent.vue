@@ -51,17 +51,14 @@
               <div class="nav-dropdown">
                 <span class="nav-link">Insights</span>
                 <div class="dropdown-content">
-                  <a href="#blog">Blog</a>
-                  <a href="#whitepaper">Whitepapers</a>
+                  <router-link to="/insights/events">Events</router-link>
+                  <router-link to="/insights/ebooks">E-Books</router-link>
+                  <router-link to="/insights/whitepapers">Whitepapers</router-link>
                 </div>
               </div>
               
               <div class="nav-dropdown">
-                <span class="nav-link">Articles</span>
-                <div class="dropdown-content">
-                  <a href="#tech-articles">Technology</a>
-                  <a href="#industry-articles">Industry News</a>
-                </div>
+                <router-link to="/insights/articles" class="nav-link">Articles</router-link>
               </div>
             </div>
             
