@@ -50,7 +50,7 @@
             <div class="partner-info">
               <h3>Elastic</h3>
               <p>Scalable, Secure, and Smart Elastic Cloud Solutions. Start your migration by discovering and assessing your on-premises resources using Elastic technology.</p>
-              <a href="#" class="explore-link">Explore More →</a>
+              <router-link to="/partners/elastic" class="explore-link">Explore More →</router-link>
             </div>
           </div>
         </div>
