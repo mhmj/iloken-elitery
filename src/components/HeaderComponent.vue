@@ -178,7 +178,8 @@ export default {
   transform: translateY(0);
 }
 
-.dropdown-content a {
+.dropdown-content a,
+.dropdown-content .router-link {
   display: block;
   padding: 8px 20px;
   color: #666;
@@ -186,7 +187,8 @@ export default {
   transition: all 0.3s ease;
 }
 
-.dropdown-content a:hover {
+.dropdown-content a:hover,
+.dropdown-content .router-link:hover {
   background: #f8f9fa;
   color: #4CAF50;
 }
