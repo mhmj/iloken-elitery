@@ -18,6 +18,9 @@
                   <router-link to="/services/software-development">Software Development</router-link>
                   <router-link to="/services/mobile-app-development">Mobile App Development</router-link>
                   <router-link to="/services/big-data-analytics">Big Data Analytics</router-link>
+                  <router-link to="/services/managed-security-service">Managed Security Service</router-link>
+                  <router-link to="/services/disaster-recovery-service">Disaster Recovery Service</router-link>
+                  <router-link to="/services/generative-ai-service">Generative AI (Elipedia)</router-link>
                 </div>
               </div>
               
