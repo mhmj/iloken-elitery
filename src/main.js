@@ -28,6 +28,9 @@ import ArticlesPage from './pages/ArticlesPage.vue'
 import ArticleDetailPage from './pages/ArticleDetailPage.vue'
 import EventDetailPage from './pages/EventDetailPage.vue'
 import WhitepaperDetailPage from './pages/WhitepaperDetailPage.vue'
+import ContactPage from './pages/ContactPage.vue'
+import CaseStudyListPage from './pages/CaseStudyListPage.vue'
+import CaseStudyDetailPage from './pages/CaseStudyDetailPage.vue'
 import './style.css'
 
 const routes = [
@@ -38,7 +41,10 @@ const routes = [
   { path: '/about', name: 'About', component: AboutPage },
   { path: '/careers', name: 'Careers', component: CareersPage },
   { path: '/careers/:id', name: 'JobDetail', component: JobDetailPage },
+  { path: '/contact', name: 'Contact', component: ContactPage },
+  { path: '/case-studies', name: 'CaseStudies', component: CaseStudyListPage },
   { path: '/case-studies/:id', name: 'CaseStudy', component: CaseStudyPage },
+  { path: '/case-study/:id', name: 'CaseStudyDetail', component: CaseStudyDetailPage },
   { path: '/services/it-project-management', name: 'ITProjectManagement', component: ITProjectManagementPage },
   { path: '/services/consultation-system-integration', name: 'ConsultationSystemIntegration', component: ConsultationSystemIntegrationPage },
   { path: '/services/software-development', name: 'SoftwareDevelopment', component: SoftwareDevelopmentPage },
