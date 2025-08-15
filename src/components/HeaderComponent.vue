@@ -54,6 +54,7 @@
                   <router-link to="/insights/events">Events</router-link>
                   <router-link to="/insights/ebooks">E-Books</router-link>
                   <router-link to="/insights/whitepapers">Whitepapers</router-link>
+                  <router-link to="/insights/articles">Articles</router-link>
                 </div>
               </div>
               
