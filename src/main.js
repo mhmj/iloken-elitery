@@ -24,6 +24,10 @@ import EventsPage from './pages/EventsPage.vue'
 import EBookPage from './pages/EBookPage.vue'
 import EBookDetailPage from './pages/EBookDetailPage.vue'
 import WhitepaperPage from './pages/WhitepaperPage.vue'
+import ArticlesPage from './pages/ArticlesPage.vue'
+import ArticleDetailPage from './pages/ArticleDetailPage.vue'
+import EventDetailPage from './pages/EventDetailPage.vue'
+import WhitepaperDetailPage from './pages/WhitepaperDetailPage.vue'
 import './style.css'
 
 const routes = [
