@@ -36,10 +36,11 @@
 
         <!-- Whitepapers Grid -->
         <div class="whitepapers-grid">
-          <div 
-            v-for="whitepaper in filteredWhitepapers" 
-            :key="whitepaper.id" 
+          <div
+            v-for="whitepaper in filteredWhitepapers"
+            :key="whitepaper.id"
             class="whitepaper-card"
+            @click="goToWhitepaperDetail(whitepaper.id)"
           >
             <div class="whitepaper-image">
               <img :src="whitepaper.image" :alt="whitepaper.title" />
