@@ -22,7 +22,7 @@
               <div class="nav-dropdown">
                 <span class="nav-link">Case Studies</span>
                 <div class="dropdown-content">
-                  <a href="#case-1">Success Stories</a>
+                  <router-link to="/case-studies/1">CyberSecurity Malaysia</router-link>
                   <a href="#case-2">Client Projects</a>
                 </div>
               </div>
@@ -34,9 +34,9 @@
               <div class="nav-dropdown">
                 <span class="nav-link">Company</span>
                 <div class="dropdown-content">
-                  <a href="#about">About Us</a>
+                  <router-link to="/about">About Us</router-link>
+                  <router-link to="/careers">Careers</router-link>
                   <a href="#team">Our Team</a>
-                  <a href="#careers">Careers</a>
                 </div>
               </div>
               
