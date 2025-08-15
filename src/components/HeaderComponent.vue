@@ -13,8 +13,9 @@
               <div class="nav-dropdown">
                 <span class="nav-link">Product & Services</span>
                 <div class="dropdown-content">
+                  <router-link to="/services/it-project-management">IT Project & Management</router-link>
+                  <router-link to="/services/consultation-system-integration">Consultation & System Integration</router-link>
                   <a href="#software-dev">Software Development</a>
-                  <a href="#consultation">Consultation & System Integration</a>
                   <a href="#data-analytics">Big Data Analytics</a>
                 </div>
               </div>
