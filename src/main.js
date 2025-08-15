@@ -9,6 +9,9 @@ import JobDetailPage from './pages/JobDetailPage.vue'
 import CaseStudyPage from './pages/CaseStudyPage.vue'
 import ITProjectManagementPage from './pages/ITProjectManagementPage.vue'
 import ConsultationSystemIntegrationPage from './pages/ConsultationSystemIntegrationPage.vue'
+import SoftwareDevelopmentPage from './pages/SoftwareDevelopmentPage.vue'
+import MobileAppDevelopmentPage from './pages/MobileAppDevelopmentPage.vue'
+import BigDataAnalyticsPage from './pages/BigDataAnalyticsPage.vue'
 import './style.css'
 
 const routes = [
@@ -19,7 +22,10 @@ const routes = [
   { path: '/careers/:id', name: 'JobDetail', component: JobDetailPage },
   { path: '/case-studies/:id', name: 'CaseStudy', component: CaseStudyPage },
   { path: '/services/it-project-management', name: 'ITProjectManagement', component: ITProjectManagementPage },
-  { path: '/services/consultation-system-integration', name: 'ConsultationSystemIntegration', component: ConsultationSystemIntegrationPage }
+  { path: '/services/consultation-system-integration', name: 'ConsultationSystemIntegration', component: ConsultationSystemIntegrationPage },
+  { path: '/services/software-development', name: 'SoftwareDevelopment', component: SoftwareDevelopmentPage },
+  { path: '/services/mobile-app-development', name: 'MobileAppDevelopment', component: MobileAppDevelopmentPage },
+  { path: '/services/big-data-analytics', name: 'BigDataAnalytics', component: BigDataAnalyticsPage }
 ]
 
 const router = createRouter({
