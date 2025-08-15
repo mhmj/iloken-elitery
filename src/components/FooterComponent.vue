@@ -4,20 +4,18 @@
       <div class="footer-content">
         <div class="footer-section">
           <div class="logo">
-            <span class="logo-icon">🔧</span>
-            <span class="logo-text">iokenellery</span>
+            <img src="https://api.builder.io/api/v1/image/assets/TEMP/c1f3ed9bfb49942b5e06c5104e83274877433206?width=302" alt="Ilokenelitery Logo" class="logo-image">
           </div>
           <div class="company-info">
-            <h4>Iloken System Sdn. Bhd. (iokenellery)</h4>
-            <p>Established in 2003, we are a Malaysian software development company specializing in custom business solutions for SMEs and large enterprises. A dedicated team of professionals to cater to your needs.</p>
+            <h4>Iloken System Sdn. Bhd. (Ilokenelitery)</h4>
+            <p>Established in 2008, we are a Malaysian software development company delivering tailored solutions for all industry sectors. A reliable partner for projects and IT team support.</p>
           </div>
         </div>
         
         <div class="footer-section">
           <h4>Malaysia Office</h4>
-          <p>B-02-01 Penanga Point<br>
-          No. 25B Jalan Tun Sambanthan 4<br>
-          Kuala Lumpur, Malaysia<br>
+          <p>B-05-01 Paragon Point<br>
+          Jalan Medan Pusat Bandar 5<br>
           43650 Bandar Baru Bangi<br>
           Selangor</p>
         </div>
@@ -25,18 +23,48 @@
         <div class="footer-section">
           <h4>Social Media</h4>
           <div class="social-links">
-            <a href="#" class="social-link">📘 LinkedIn</a>
-            <a href="#" class="social-link">📷 Instagram</a>
-            <a href="#" class="social-link">🐦 Twitter</a>
-            <a href="#" class="social-link">📹 YouTube</a>
-            <a href="#" class="social-link">📞 Facebook</a>
-            <a href="#" class="social-link">📧 info@iokenellery.com</a>
+            <a href="#" class="social-link">
+              <svg class="social-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <path d="M15.8333 2.5C16.2754 2.5 16.6993 2.67559 17.0118 2.98816C17.3244 3.30072 17.5 3.72464 17.5 4.16667V15.8333C17.5 16.2754 17.3244 16.6993 17.0118 17.0118C16.6993 17.3244 16.2754 17.5 15.8333 17.5H4.16667C3.72464 17.5 3.30072 17.3244 2.98816 17.0118C2.67559 16.6993 2.5 16.2754 2.5 15.8333V4.16667C2.5 3.72464 2.67559 3.30072 2.98816 2.98816C3.30072 2.67559 3.72464 2.5 4.16667 2.5H15.8333ZM15.4167 15.4167V11C15.4167 10.2795 15.1304 9.5885 14.621 9.07903C14.1115 8.56955 13.4205 8.28333 12.7 8.28333C11.9917 8.28333 11.1667 8.71667 10.7667 9.36667V8.44167H8.44167V15.4167H10.7667V11.3083C10.7667 10.6667 11.2833 10.1417 11.925 10.1417C12.2344 10.1417 12.5312 10.2646 12.75 10.4834C12.9688 10.7022 13.0917 10.9989 13.0917 11.3083V15.4167H15.4167ZM5.73333 7.13333C6.10464 7.13333 6.46073 6.98583 6.72328 6.72328C6.98583 6.46073 7.13333 6.10464 7.13333 5.73333C7.13333 4.95833 6.50833 4.325 5.73333 4.325C5.35982 4.325 5.0016 4.47338 4.73749 4.73749C4.47338 5.0016 4.325 5.35982 4.325 5.73333C4.325 6.50833 4.95833 7.13333 5.73333 7.13333ZM6.89167 15.4167V8.44167H4.58333V15.4167H6.89167Z" fill="#383838"/>
+              </svg>
+              LinkedIn
+            </a>
+            <a href="#" class="social-link">
+              <svg class="social-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <path d="M10.0006 7.39645C8.56699 7.39645 7.39707 8.56638 7.39707 9.99997C7.39707 11.4336 8.56699 12.6035 10.0006 12.6035C11.4342 12.6035 12.6041 11.4336 12.6041 9.99997C12.6041 8.56638 11.4342 7.39645 10.0006 7.39645ZM17.8092 9.99997C17.8092 8.92185 17.8189 7.85349 17.7584 6.77731C17.6978 5.52731 17.4127 4.41794 16.4986 3.50388C15.5826 2.58786 14.4752 2.30466 13.2252 2.24411C12.1471 2.18356 11.0787 2.19333 10.0025 2.19333C8.92441 2.19333 7.85605 2.18356 6.77988 2.24411C5.52988 2.30466 4.4205 2.58981 3.50644 3.50388C2.59042 4.41989 2.30722 5.52731 2.24667 6.77731C2.18613 7.85544 2.19589 8.9238 2.19589 9.99997C2.19589 11.0761 2.18613 12.1465 2.24667 13.2226C2.30722 14.4726 2.59238 15.582 3.50644 16.4961C4.42246 17.4121 5.52988 17.6953 6.77988 17.7558C7.858 17.8164 8.92636 17.8066 10.0025 17.8066C11.0807 17.8066 12.149 17.8164 13.2252 17.7558C14.4752 17.6953 15.5846 17.4101 16.4986 16.4961C17.4146 15.58 17.6978 14.4726 17.7584 13.2226C17.8209 12.1465 17.8092 11.0781 17.8092 9.99997ZM10.0006 14.0058C7.78378 14.0058 5.99472 12.2168 5.99472 9.99997C5.99472 7.78317 7.78378 5.99411 10.0006 5.99411C12.2174 5.99411 14.0064 7.78317 14.0064 9.99997C14.0064 12.2168 12.2174 14.0058 10.0006 14.0058ZM14.1705 6.7656C13.6529 6.7656 13.235 6.34763 13.235 5.83005C13.235 5.31247 13.6529 4.8945 14.1705 4.8945C14.6881 4.8945 15.1061 5.31247 15.1061 5.83005C15.1062 5.95295 15.0821 6.07467 15.0351 6.18825C14.9882 6.30182 14.9193 6.40502 14.8324 6.49192C14.7455 6.57883 14.6423 6.64773 14.5287 6.6947C14.4151 6.74166 14.2934 6.76575 14.1705 6.7656Z" fill="#383838"/>
+              </svg>
+              Instagram
+            </a>
+            <a href="#" class="social-link">
+              <svg class="social-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <path d="M10.2027 3.33337C10.6477 3.33587 11.761 3.34671 12.9444 3.39421L13.3643 3.41254C14.5552 3.46837 15.7452 3.56504 16.336 3.72921C17.1235 3.95087 17.7418 4.59587 17.951 5.41421C18.2843 6.71421 18.326 9.24921 18.331 9.86337L18.3319 9.99004V10.135C18.326 10.7492 18.2843 13.285 17.951 14.5842C17.7393 15.405 17.1202 16.0509 16.336 16.2692C15.7452 16.4334 14.5552 16.53 13.3643 16.5859L12.9444 16.605C11.761 16.6517 10.6477 16.6634 10.2027 16.665L10.0068 16.6659H9.79435C8.85268 16.66 4.91435 16.6175 3.66102 16.2692C2.87435 16.0475 2.25518 15.4025 2.04602 14.5842C1.71268 13.2842 1.67102 10.7492 1.66602 10.135V9.86337C1.67102 9.24921 1.71268 6.71337 2.04602 5.41421C2.25768 4.59337 2.87685 3.94754 3.66185 3.73004C4.91435 3.38087 8.85352 3.33837 9.79518 3.33337H10.2027ZM8.33185 7.08337V12.9167L13.3318 10L8.33185 7.08337Z" fill="#383838"/>
+              </svg>
+              Youtube
+            </a>
+            <a href="#" class="social-link">
+              <svg class="social-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <path d="M18.7165 5.00004C18.0749 5.29171 17.3832 5.48337 16.6665 5.57504C17.3999 5.13337 17.9665 4.43337 18.2332 3.59171C17.5415 4.00837 16.7749 4.30004 15.9665 4.46671C15.3082 3.75004 14.3832 3.33337 13.3332 3.33337C11.3749 3.33337 9.77487 4.93337 9.77487 6.90837C9.77487 7.19171 9.8082 7.46671 9.86654 7.72504C6.89987 7.57504 4.2582 6.15004 2.49987 3.99171C2.19154 4.51671 2.01654 5.13337 2.01654 5.78337C2.01654 7.02504 2.64154 8.12504 3.6082 8.75004C3.01654 8.75004 2.46654 8.58337 1.9832 8.33337V8.35837C1.9832 10.0917 3.21654 11.5417 4.84987 11.8667C4.32548 12.0102 3.77495 12.0302 3.24154 11.925C3.46788 12.6354 3.91115 13.257 4.50905 13.7025C5.10695 14.1479 5.82941 14.3948 6.57487 14.4084C5.31123 15.4087 3.74487 15.9495 2.1332 15.9417C1.84987 15.9417 1.56654 15.925 1.2832 15.8917C2.86654 16.9084 4.74987 17.5 6.76654 17.5C13.3332 17.5 16.9415 12.05 16.9415 7.32504C16.9415 7.16671 16.9415 7.01671 16.9332 6.85837C17.6332 6.35837 18.2332 5.72504 18.7165 5.00004Z" fill="#383838"/>
+              </svg>
+              Twitter
+            </a>
+            <a href="#" class="social-link">
+              <svg class="social-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <path d="M18.3327 9.99996C18.3327 5.39996 14.5993 1.66663 9.99935 1.66663C5.39935 1.66663 1.66602 5.39996 1.66602 9.99996C1.66602 14.0333 4.53268 17.3916 8.33268 18.1666V12.5H6.66602V9.99996H8.33268V7.91663C8.33268 6.30829 9.64102 4.99996 11.2493 4.99996H13.3327V7.49996H11.666C11.2077 7.49996 10.8327 7.87496 10.8327 8.33329V9.99996H13.3327V12.5H10.8327V18.2916C15.041 17.875 18.3327 14.325 18.3327 9.99996Z" fill="#383838"/>
+              </svg>
+              Facebook
+            </a>
+            <a href="mailto:info@ilokensystem.net" class="social-link">
+              <svg class="social-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <path d="M16.666 3.33325H3.33268C2.41602 3.33325 1.67435 4.08325 1.67435 4.99992L1.66602 14.9999C1.66602 15.9166 2.41602 16.6666 3.33268 16.6666H16.666C17.5827 16.6666 18.3327 15.9166 18.3327 14.9999V4.99992C18.3327 4.08325 17.5827 3.33325 16.666 3.33325ZM16.3327 6.87492L10.441 10.5583C10.1743 10.7249 9.82435 10.7249 9.55768 10.5583L3.66602 6.87492C3.58246 6.82801 3.50928 6.76464 3.45092 6.68863C3.39256 6.61262 3.35023 6.52557 3.3265 6.43273C3.30276 6.33989 3.2981 6.2432 3.31281 6.14851C3.32752 6.05382 3.3613 5.9631 3.41208 5.88184C3.46287 5.80058 3.52962 5.73046 3.60829 5.67575C3.68696 5.62103 3.77591 5.58284 3.86976 5.5635C3.96362 5.54416 4.06042 5.54406 4.15431 5.56321C4.2482 5.58236 4.33724 5.62036 4.41602 5.67492L9.99935 9.16658L15.5827 5.67492C15.6615 5.62036 15.7505 5.58236 15.8444 5.56321C15.9383 5.54406 16.0351 5.54416 16.1289 5.5635C16.2228 5.58284 16.3117 5.62103 16.3904 5.67575C16.4691 5.73046 16.5358 5.80058 16.5866 5.88184C16.6374 5.9631 16.6712 6.05382 16.6859 6.14851C16.7006 6.2432 16.6959 6.33989 16.6722 6.43273C16.6485 6.52557 16.6061 6.61262 16.5478 6.68863C16.4894 6.76464 16.4162 6.82801 16.3327 6.87492Z" fill="#383838"/>
+              </svg>
+              info@ilokensystem.net
+            </a>
           </div>
         </div>
       </div>
       
       <div class="footer-bottom">
-        <p>&copy; 2023 iokenellery | Powered by iokenellery</p>
+        <p>&copy; 2025 Ilokenelitery | Powered by Ilokenelitery</p>
       </div>
     </div>
   </footer>
@@ -50,70 +78,92 @@ export default {
 
 <style scoped>
 .footer {
-  background-color: #2c3e50;
-  color: white;
-  padding: 60px 0 20px;
+  background-color: #fff;
+  color: #383838;
+  padding: 48px 0 24px;
+  border-top: 1px solid #E7E7E7;
 }
 
 .footer-content {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 40px;
+  gap: 48px;
   margin-bottom: 40px;
 }
 
 .footer-section h4 {
-  margin-bottom: 20px;
-  color: #4CAF50;
-  font-size: 18px;
+  margin-bottom: 16px;
+  color: #383838;
+  font-size: 16px;
+  font-weight: 600;
 }
 
 .logo {
   display: flex;
   align-items: center;
-  margin-bottom: 20px;
-  font-size: 24px;
-  font-weight: bold;
+  margin-bottom: 16px;
 }
 
-.logo-icon {
-  font-size: 28px;
-  margin-right: 12px;
-  color: #4CAF50;
+.logo-image {
+  height: 30px;
+  width: auto;
+}
+
+.company-info h4 {
+  margin-bottom: 8px;
 }
 
 .company-info p {
-  line-height: 1.8;
-  color: #bdc3c7;
+  line-height: 1.4;
+  color: #848484;
+  font-size: 14px;
 }
 
 .social-links {
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 0;
 }
 
 .social-link {
-  color: #bdc3c7;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #848484;
   text-decoration: none;
   transition: color 0.3s ease;
+  font-size: 14px;
+  margin-bottom: 16px;
 }
 
 .social-link:hover {
-  color: #4CAF50;
+  color: #3AAE51;
+}
+
+.social-link:hover .social-icon path {
+  fill: #3AAE51;
+}
+
+.social-icon {
+  flex-shrink: 0;
 }
 
 .footer-bottom {
-  border-top: 1px solid #34495e;
-  padding-top: 20px;
+  border-top: 1px solid #E7E7E7;
+  padding-top: 24px;
   text-align: center;
-  color: #bdc3c7;
+  color: #848484;
+  font-size: 14px;
 }
 
 @media (max-width: 768px) {
   .footer-content {
     grid-template-columns: 1fr;
     gap: 30px;
+  }
+  
+  .footer {
+    padding: 40px 0 20px;
   }
 }
 </style>
