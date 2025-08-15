@@ -7,6 +7,8 @@ import AboutPage from './pages/AboutPage.vue'
 import CareersPage from './pages/CareersPage.vue'
 import JobDetailPage from './pages/JobDetailPage.vue'
 import CaseStudyPage from './pages/CaseStudyPage.vue'
+import ITProjectManagementPage from './pages/ITProjectManagementPage.vue'
+import ConsultationSystemIntegrationPage from './pages/ConsultationSystemIntegrationPage.vue'
 import './style.css'
 
 const routes = [
