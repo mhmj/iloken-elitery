@@ -138,6 +138,11 @@ export default {
         whitepaper.description.toLowerCase().includes(this.searchQuery.toLowerCase())
       );
     }
+  },
+  methods: {
+    goToWhitepaperDetail(id) {
+      this.$router.push(`/insights/whitepapers/${id}`);
+    }
   }
 }
 </script>
