@@ -12,6 +12,12 @@ import ConsultationSystemIntegrationPage from './pages/ConsultationSystemIntegra
 import SoftwareDevelopmentPage from './pages/SoftwareDevelopmentPage.vue'
 import MobileAppDevelopmentPage from './pages/MobileAppDevelopmentPage.vue'
 import BigDataAnalyticsPage from './pages/BigDataAnalyticsPage.vue'
+import ManagedSecurityServicePage from './pages/ManagedSecurityServicePage.vue'
+import DisasterRecoveryServicePage from './pages/DisasterRecoveryServicePage.vue'
+import GenerativeAIServicePage from './pages/GenerativeAIServicePage.vue'
+import DBInsightsPage from './pages/DBInsightsPage.vue'
+import MediaInsightsPage from './pages/MediaInsightsPage.vue'
+import CloudManagedServicePage from './pages/CloudManagedServicePage.vue'
 import './style.css'
 
 const routes = [
@@ -25,7 +31,13 @@ const routes = [
   { path: '/services/consultation-system-integration', name: 'ConsultationSystemIntegration', component: ConsultationSystemIntegrationPage },
   { path: '/services/software-development', name: 'SoftwareDevelopment', component: SoftwareDevelopmentPage },
   { path: '/services/mobile-app-development', name: 'MobileAppDevelopment', component: MobileAppDevelopmentPage },
-  { path: '/services/big-data-analytics', name: 'BigDataAnalytics', component: BigDataAnalyticsPage }
+  { path: '/services/big-data-analytics', name: 'BigDataAnalytics', component: BigDataAnalyticsPage },
+  { path: '/services/managed-security-service', name: 'ManagedSecurityService', component: ManagedSecurityServicePage },
+  { path: '/services/disaster-recovery-service', name: 'DisasterRecoveryService', component: DisasterRecoveryServicePage },
+  { path: '/services/generative-ai-service', name: 'GenerativeAIService', component: GenerativeAIServicePage },
+  { path: '/services/dbinsights', name: 'DBInsights', component: DBInsightsPage },
+  { path: '/services/mediainsights', name: 'MediaInsights', component: MediaInsightsPage },
+  { path: '/services/cloud-managed-service', name: 'CloudManagedService', component: CloudManagedServicePage }
 ]
 
 const router = createRouter({
