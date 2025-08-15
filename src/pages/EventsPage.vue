@@ -142,6 +142,11 @@ export default {
 
       return filtered;
     }
+  },
+  methods: {
+    goToEventDetail(id) {
+      this.$router.push(`/insights/events/${id}`);
+    }
   }
 }
 </script>
