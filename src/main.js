@@ -20,6 +20,10 @@ import GenerativeAIServicePage from './pages/GenerativeAIServicePage.vue'
 import DBInsightsPage from './pages/DBInsightsPage.vue'
 import MediaInsightsPage from './pages/MediaInsightsPage.vue'
 import CloudManagedServicePage from './pages/CloudManagedServicePage.vue'
+import EventsPage from './pages/EventsPage.vue'
+import EBookPage from './pages/EBookPage.vue'
+import EBookDetailPage from './pages/EBookDetailPage.vue'
+import WhitepaperPage from './pages/WhitepaperPage.vue'
 import './style.css'
 
 const routes = [
