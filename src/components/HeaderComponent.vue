@@ -151,7 +151,8 @@ export default {
   transition: color 0.3s ease;
 }
 
-.nav-link:hover {
+.nav-link:hover,
+.router-link-active {
   color: #4CAF50;
 }
 
