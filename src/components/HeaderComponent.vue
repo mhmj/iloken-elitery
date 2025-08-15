@@ -59,11 +59,7 @@
               </div>
               
               <div class="nav-dropdown">
-                <span class="nav-link">Articles</span>
-                <div class="dropdown-content">
-                  <a href="#tech-articles">Technology</a>
-                  <a href="#industry-articles">Industry News</a>
-                </div>
+                <router-link to="/insights/articles" class="nav-link">Articles</router-link>
               </div>
             </div>
             
