@@ -28,10 +28,10 @@
               </div>
               
               <div class="nav-dropdown">
-                <span class="nav-link">Case Studies</span>
+                <router-link to="/case-studies" class="nav-link">Case Studies</router-link>
                 <div class="dropdown-content">
-                  <router-link to="/case-studies/1">CyberSecurity Malaysia</router-link>
-                  <a href="#case-2">Client Projects</a>
+                  <router-link to="/case-study/1">CyberSecurity Malaysia</router-link>
+                  <router-link to="/case-studies">View All Case Studies</router-link>
                 </div>
               </div>
               
@@ -62,7 +62,7 @@
               </div>
             </div>
             
-            <a href="#contact" class="btn btn-primary contact-btn">Contact Us</a>
+            <router-link to="/contact" class="btn btn-primary contact-btn">Contact Us</router-link>
           </div>
           
           <button class="mobile-menu-toggle" @click="toggleMobileMenu">
